@@ -8,3 +8,6 @@ link to the prototype: https://www.figma.com/proto/nFF3xlEVUpXuwU4kH4rBz4/Admass
 <img src="Frame 7.png" width="725" height="515">
 <img src="Frame 4.jpg" width="725" height="900">
 
+#2. Eunoia 
+link to the design: https://www.figma.com/proto/ICchPreVBLCytvEB8XNz1R/Eunoia?node-id=22%3A302&scaling=scale-down&page-id=1%3A5&starting-point-node-id=16%3A260&show-proto-sidebar=1
+
