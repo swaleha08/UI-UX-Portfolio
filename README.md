@@ -1,5 +1,7 @@
 # UI-UX-Portfolio
 
 # 1. Admass Inc. Website Design
-<img src="Frame 1.jpg" width="480" height="330">
+link to the design: 
+link to the prototype: 
+<img src="Frame 1.jpg" width="1537" height="4592">
 
