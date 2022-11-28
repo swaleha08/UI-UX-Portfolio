@@ -3,5 +3,5 @@
 # 1. Admass Inc. Website Design
 link to the design: 
 link to the prototype: 
-<img src="Frame 1.png" width="1000" height="4592">
+<img src="Frame 1.png" width="900" height="4592">
 
